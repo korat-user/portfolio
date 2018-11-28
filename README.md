@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# [Apollo: Jade website template](http://buckymaler.com/featured-work/apollo)
 
-You can use the [editor on GitHub](https://github.com/korat-user/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Apollo is a minimal, thoughtfully designed single page website template, and serves as the perfect showcase for a professional photographer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can find the original [PSD](https://symu.co/freebies/templates-4/apollo-psd-template/)
+by [Jakub Kowalczyk](https://www.behance.net/jakubdesign)
 
-### Markdown
+This project was developed with Jade, Sass, and JavaScript.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-```markdown
-Syntax highlighted code block
+[LIVE PREVIEW](http://buckymaler.com/featured-work/apollo)
 
-# Header 1
-## Header 2
-### Header 3
+## Misc:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/korat-user/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Jakub: [Twitter](https://twitter.com/jakubdesign), [Bēhance](https://www.behance.net/jakubdesign)
